@@ -489,36 +489,10 @@ streamlit run app.py
 
 ---
 
-# Repository Structure
-
-```plaintext
-.
-├── app.py
-├── geography_game.py
-├── requirements.txt
-├── README.md
-├── png_flags/
-├── outline_svgs/
-├── flag_similarity.csv
-└── shape_similarity.csv
-```
-
----
 
 # Future Ideas
 
-Potential future additions:
-
-* Multiplayer modes
-* Timed speedruns
-* Leaderboards
-* Custom map uploads
-* AI-generated geography challenges
-* City skylines and landmark modes
-* Population/demographic visual games
-* Audio-based geography modes
-* User-created challenge packs
-
+Please feel free to add your own game modes and espcially game types, I am working on more similar visual games.
 ---
 
 # Why This Project Exists
