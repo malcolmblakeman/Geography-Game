@@ -13,6 +13,7 @@ This project combines image similarity, geography knowledge, pattern recognition
 ### 🌍 Geographic Outlines
 - [Natural Earth Data](https://www.naturalearthdata.com)
 - [PublicaMundi US States GeoJSON Dataset](https://github.com/PublicaMundi/MappingAPI/tree/master/data/geojson)
+
 ---
 # Features
 
