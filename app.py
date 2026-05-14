@@ -100,9 +100,8 @@ def simplify_svg(svg, keep_every=3):
 # RENDER SVG (CLEAN UI)
 # ========================
 def render(name, size=350, angle=0, blur=0):
-    #render_img(name, size=350, angle=0, blur=0):
     if(GAME_TYPE=="SHAPE"):
-        return render_svg(load_svg(name),  angle=angle)
+        return render_svg(load_svg(name),  angle=angle, blur=blur)
     elif(GAME_TYPE=="FLAG"):
         return render_img(name, size, angle, blur=blur)
 def render_svg(svg, size=350, angle=0, blur=0):
