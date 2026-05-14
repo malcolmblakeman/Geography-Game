@@ -127,7 +127,15 @@ Players then choose from several visually similar options.
 * Difficulty scaling
 * Randomized answer choices
 * Similarity score calculations
+---
+# Visual Sources
+🚩 Flags
+[hayleyox/flags GitHub Repository
+]([url](https://github.com/hayleox/flags))
 
+🌍 Geographic Outlines
+Natural Earth Data
+PublicaMundi US States GeoJSON Dataset
 ---
 
 ## Skills Tested
