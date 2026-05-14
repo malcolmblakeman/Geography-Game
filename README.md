@@ -5,7 +5,15 @@ An interactive geography guessing game built with Streamlit that challenges play
 This project combines image similarity, geography knowledge, pattern recognition, and spatial reasoning into a collection of fast-paced mini-games. Players can test themselves on national flags, country shapes, U.S. state outlines, island geography, and more through several unique gameplay modes.
 
 ---
+## Visual Data Sources
 
+### 🚩 Flags
+- [hayleyox/flags GitHub Repository](https://github.com/hjnilsson/country-flags)
+
+### 🌍 Geographic Outlines
+- [Natural Earth Data](https://www.naturalearthdata.com)
+- [PublicaMundi US States GeoJSON Dataset](https://github.com/PublicaMundi/MappingAPI/tree/master/data/geojson)
+---
 # Features
 
 ## Two Core Game Types
@@ -127,15 +135,6 @@ Players then choose from several visually similar options.
 * Difficulty scaling
 * Randomized answer choices
 * Similarity score calculations
----
-# Visual Sources
-🚩 Flags
-[hayleyox/flags GitHub Repository
-]([url](https://github.com/hayleox/flags))
-
-🌍 Geographic Outlines
-Natural Earth Data
-PublicaMundi US States GeoJSON Dataset
 ---
 
 ## Skills Tested
