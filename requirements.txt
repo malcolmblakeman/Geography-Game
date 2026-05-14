@@ -1,0 +1,6 @@
+streamlit
+pandas
+random
+streamlit_sortables
+difflib
+base64
